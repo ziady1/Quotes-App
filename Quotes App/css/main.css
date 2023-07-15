@@ -1,0 +1,6 @@
+body *{
+    margin: 2rem 0;
+}
+button:hover{
+    background-color: forestgreen !important;
+}
